@@ -1,0 +1,4 @@
+interface:
+  display_name: "语文试卷题型维度评分"
+  short_description: "按指定地区中高考语文题型模板评定试卷的题型维度分数"
+  default_prompt: "Use $chinese-exam-question-type-scorer to score the question-type dimension of this Chinese exam paper."
